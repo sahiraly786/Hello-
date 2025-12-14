@@ -3,10 +3,11 @@ Hello I am Sahir a Web developer
 About Me
 <img width="1349" height="558" alt="image" src="https://github.com/user-attachments/assets/77de6932-a857-4826-b911-bb5064002137" />
 My Resume 
-<img width="1351" height="551" alt="image" src="https://github.com/user-attachments/assets/aac5228e-9a05-4b76-9190-36dca1e66d45" />
-<img width="1244" height="337" alt="image" src="https://github.com/user-attachments/assets/b6f2ccca-05d2-4af4-910b-bd15c544c789" />
-<img width="1343" height="555" alt="image" src="https://github.com/user-attachments/assets/da20937b-3e2a-4a5f-b6cb-03fd48277be7" />
-![Uploading image.png…]()
+<img width="1366" height="728" alt="image" src="https://github.com/user-attachments/assets/025101ee-fd12-462e-88ac-8b8f759eb1ed" />
+<img width="1366" height="728" alt="image" src="https://github.com/user-attachments/assets/7e968f0b-c393-423f-aa33-89c06c7e6209" />
+<img width="1366" height="728" alt="image" src="https://github.com/user-attachments/assets/f357386b-f55c-4d4a-924d-932b2afd0ec0" />
+
 Footer
-![Uploading image.png…]()
+<img width="1366" height="728" alt="image" src="https://github.com/user-attachments/assets/536805b7-0232-49e7-8f12-80994527aac5" />
+
 
